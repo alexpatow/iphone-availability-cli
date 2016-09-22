@@ -1,0 +1,218 @@
+{
+  "Verizon": {
+    "iPhone 7": {
+      "Jet Black" : {
+        "128GB": "MNAP2LL/A",
+        "256GB": "MNAX2LL/A"
+      },
+      "Gold": {
+        "32GB": "MNAE2LL/A",
+        "128GB": "MNAL2LL/A",
+        "256GB": "MNAV2LL/A"
+      },
+      "Rose Gold": {
+        "32GB": "MNAF2LL/A",
+        "128GB": "MNAM2LL/A",
+        "256GB": "MNAW2LL/A"
+      },
+      "Silver": {
+        "32GB": "MNAD2LL/A",
+        "128GB": "MNAK2LL/A",
+        "256GB": "MNAU2LL/A"
+      },
+      "Black": {
+        "32GB": "MNAC2LL/A",
+        "128GB": "MNAJ2LL/A",
+        "256GB": "MNAQ2LL/A"
+      }
+    },
+    "iPhone 7+": {
+      "Jet Black" : {
+        "128GB": "MN5X2LL/A",
+        "256GB": "MN632LL/A"
+      },
+      "Gold": {
+        "32GB": "MNR32LL/A",
+        "128GB": "MN5V2LL/A",
+        "256GB": "MN612LL/A"
+      },
+      "Rose Gold": {
+        "32GB": "MNR42LL/A",
+        "128GB": "MN5W2LL/A",
+        "256GB": "MN622LL/A"
+      },
+      "Silver": {
+        "32GB": "MNR22LL/A",
+        "128GB": "MN5U2LL/A",
+        "256GB": "MN602LL/A"
+      },
+      "Black": {
+        "32GB": "MNR12LL/A",
+        "128GB": "MN5T2LL/A",
+        "256GB": "MN5Y2LL/A"
+      }
+    }
+  },
+  "Sprint": {
+    "iPhone 7": {
+      "Jet Black" : {
+        "128GB": "MNC72LL/A",
+        "256GB": "MNCD2LL/A"
+      },
+      "Gold": {
+        "32GB": "MNC12LL/A",
+        "128GB": "MNC52LL/A",
+        "256GB": "MNCA2LL/A"
+      },
+      "Rose Gold": {
+        "32GB": "MNC22LL/A",
+        "128GB": "MNC62LL/A",
+        "256GB": "MNCC2LL/A"
+      },
+      "Silver": {
+        "32GB": "MNC02LL/A",
+        "128GB": "MNC42LL/A",
+        "256GB": "MNC92LL/A"
+      },
+      "Black": {
+        "32GB": "MNAY2LL/A",
+        "128GB": "MNC32LL/A",
+        "256GB": "MNC82LL/A"
+      }
+    },
+    "iPhone 7+": {
+      "Jet Black" : {
+        "128GB": "MN682LL/A",
+        "256GB": "MN6E2LL/A"
+      },
+      "Gold": {
+        "32GB": "MNR72LL/A",
+        "128GB": "MN662LL/A",
+        "256GB": "MN6C2LL/A"
+      },
+      "Rose Gold": {
+        "32GB": "MNR82LL/A",
+        "128GB": "MN672LL/A",
+        "256GB": "MN6D2LL/A"
+      },
+      "Silver": {
+        "32GB": "MNR62LL/A",
+        "128GB": "MN652LL/A",
+        "256GB": "MN6A2LL/A"
+      },
+      "Black": {
+        "32GB": "MNR52LL/A",
+        "128GB": "MN642LL/A",
+        "256GB": "MN692LL/A"
+      }
+    }
+  },
+  "AT&T": {
+    "iPhone 7": {
+      "Jet Black" : {
+        "128GB": "MN9M2LL/A",
+        "256GB": "MN9T2LL/A"
+      },
+      "Gold": {
+        "32GB": "MN9F2LL/A",
+        "128GB": "MN9K2LL/A",
+        "256GB": "MN9Q2LL/A"
+      },
+      "Rose Gold": {
+        "32GB": "MN9G2LL/A",
+        "128GB": "MN9L2LL/A",
+        "256GB": "MN9R2LL/A"
+      },
+      "Silver": {
+        "32GB": "MN9E2LL/A",
+        "128GB": "MN9J2LL/A",
+        "256GB": "MN9P2LL/A"
+      },
+      "Black": {
+        "32GB": "MN9D2LL/A",
+        "128GB": "MN9H2LL/A",
+        "256GB": "MN9N2LL/A"
+      }
+    },
+    "iPhone 7+": {
+      "Jet Black" : {
+        "128GB": "MN572LL/A",
+        "256GB": "MN5F2LL/A"
+      },
+      "Gold": {
+        "32GB": "MNQU2LL/A",
+        "128GB": "MN552LL/A",
+        "256GB": "MN5D2LL/A"
+      },
+      "Rose Gold": {
+        "32GB": "MNQV2LL/A",
+        "128GB": "MN562LL/A",
+        "256GB": "MN5E2LL/A"
+      },
+      "Silver": {
+        "32GB": "MNQT2LL/A",
+        "128GB": "MN532LL/A",
+        "256GB": "MN5C2LL/A"
+      },
+      "Black": {
+        "32GB": "MNQR2LL/A",
+        "128GB": "MN522LL/A",
+        "256GB": "MN592LL/A"
+      }
+    }
+  },
+  "T-Mobile": {
+    "iPhone 7": {
+      "Jet Black" : {
+        "128GB": "MNA52LL/A",
+        "256GB": "MNAA2LL/A"
+      },
+      "Gold": {
+        "32GB": "MN9W2LL/A",
+        "128GB": "MNA32LL/A",
+        "256GB": "MNA82LL/A"
+      },
+      "Rose Gold": {
+        "32GB": "MN9X2LL/A",
+        "128GB": "MNA42LL/A",
+        "256GB": "MNA92LL/A"
+      },
+      "Silver": {
+        "32GB": "MN9V2LL/A",
+        "128GB": "MNA02LL/A",
+        "256GB": "MNA72LL/A"
+      },
+      "Black": {
+        "32GB": "MN9U2LL/A",
+        "128GB": "MN9Y2LL/A",
+        "256GB": "MNA62LL/A"
+      }
+    },
+    "iPhone 7+": {
+      "Jet Black" : {
+        "128GB": "MN5L2LL/A",
+        "256GB": "MN5R2LL/A"
+      },
+      "Gold": {
+        "32GB": "MNQY2LL/A",
+        "128GB": "MNQY2LL/A",
+        "256GB": "MN5P2LL/A"
+      },
+      "Rose Gold": {
+        "32GB": "MNR02LL/A",
+        "128GB": "MNR02LL/A",
+        "256GB": "MN5Q2LL/A"
+      },
+      "Silver": {
+        "32GB": "MNQX2LL/A",
+        "128GB": "MN5H2LL/A",
+        "256GB": "MN5N2LL/A"
+      },
+      "Black": {
+        "32GB": "MNQW2LL/A",
+        "128GB": "MN5G2LL/A",
+        "256GB": "MN5M2LL/A"
+      }
+    }
+  }
+}

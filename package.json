@@ -9,7 +9,11 @@
   "bin": {
     "iphone-availability": "index.js"
   },
+  "homepage": "https://github.com/alexpatow/iphone-availability-cli",
+  "bugs": {"url" : "https://github.com/owner/project/issues"},
+  "engines" : { "node" : ">=4.3.2" },
   "author": "Alex Patow",
+  "reveal": true,
   "license": "MIT",
   "dependencies": {
     "beepbeep": "^1.2.0",

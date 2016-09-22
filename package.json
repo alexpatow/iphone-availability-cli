@@ -1,5 +1,5 @@
 {
-  "name": "iphone-availibility-cli",
+  "name": "iphone-availability-cli",
   "version": "1.0.0",
   "description": "CLI tool for being alerted when an iPhone 7 or 7+ is in stock near you.",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "iphone-availibility": "index.js"
+    "iphone-availability": "index.js"
   },
   "author": "Alex Patow",
   "license": "MIT",

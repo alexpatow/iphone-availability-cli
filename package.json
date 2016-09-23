@@ -1,6 +1,6 @@
 {
   "name": "iphone-availability-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to receive alerts when an iPhone 7 or 7+ is in stock near you.",
   "author": "Alex Patow <alexpatow@alexpatow.com>",
   "keywords": ["iPhone 7", "apple"],

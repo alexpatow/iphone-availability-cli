@@ -2,6 +2,9 @@
   "name": "iphone-availability-cli",
   "version": "1.0.1",
   "description": "CLI tool to receive alerts when an iPhone 7 or 7+ is in stock near you.",
+  "author": "Alex Patow <alexpatow@alexpatow.com>",
+  "keywords": ["iPhone 7", "apple"],
+  "repository": "alexpatow/iphone-availability-cli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +13,7 @@
     "iphone-availability": "index.js"
   },
   "homepage": "https://github.com/alexpatow/iphone-availability-cli",
-  "bugs": {"url" : "https://github.com/owner/project/issues"},
+  "bugs": {"url" : "https://github.com/alexpatow/iphone-availability-cli/issues"},
   "engines" : { "node" : ">=4.3.2" },
   "author": "Alex Patow",
   "reveal": true,
